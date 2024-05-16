@@ -2,4 +2,4 @@
 
 ```execution du programme : ```
 
-![](./image/cap1.png)
+![]./image/cap1.png
