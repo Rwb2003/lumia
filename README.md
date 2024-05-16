@@ -9,3 +9,5 @@
 ![](./image/cap2.png)
 
 ```resultat du pytest:```
+
+![](./image/cap3.png)
